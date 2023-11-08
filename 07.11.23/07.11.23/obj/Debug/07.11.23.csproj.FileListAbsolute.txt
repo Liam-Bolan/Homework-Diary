@@ -1,0 +1,7 @@
+H:\Visual studio stuff\07.11.23\07.11.23\obj\Debug\07.11.23.csproj.CoreCompileInputs.cache
+H:\Visual studio stuff\07.11.23\07.11.23\bin\Debug\07.11.23.exe.config
+H:\Visual studio stuff\07.11.23\07.11.23\bin\Debug\07.11.23.exe
+H:\Visual studio stuff\07.11.23\07.11.23\bin\Debug\07.11.23.pdb
+H:\Visual studio stuff\07.11.23\07.11.23\obj\Debug\07.11.23.exe
+H:\Visual studio stuff\07.11.23\07.11.23\obj\Debug\07.11.23.pdb
+H:\Visual studio stuff\07.11.23\07.11.23\obj\Debug\07.11.23.csprojAssemblyReference.cache
